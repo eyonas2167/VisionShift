@@ -1,0 +1,34 @@
+20 20
+perlin 4 4 linear 1 0.1 blend imgs/spot1.jpeg imgs/spot2.jpeg
+
+Objects
+
+
+Characters
+r imgs/red.png 0.1
+b imgs/blue.png 0.1
+k imgs/sandwich.png  0.15
+d imgs/player.png 0.075
+
+
+World
+oooooooodooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooooooooooooooro
+oooooooooooooooooooo
+oooooooooooooooooobo
+oroooooooooooooooooo
+ooooooooookooooooobo
+oboorooooooooooooooo
+ooooooooooooooooooro
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooobooooooooooooo
+oooooooooobooooooooo
+oooooooroooooobooooo
+oooooooooooooooooooo
+oooooooooooooobooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooroooooooooooboo

@@ -11,3 +11,5 @@ you are a powerful being that holds the ability to shift between two planes of a
 -score resets upon theft
 
 -score board changes color to indicate which field of awareness you are under
+
+-gameplay footage https://www.youtube.com/watch?v=K0WWg1fkS2E&ab_channel=EloheYonas

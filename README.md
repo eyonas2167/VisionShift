@@ -4,7 +4,7 @@ you are a powerful being that holds the ability to shift between two planes of a
 
 -Game utilizes behavior trees to maniuplate enemy foes based on the position and mode of the player
 
--shift between fields of awareness to avoid detection of given foes
+-press the space button to shift between fields of awareness and avoid detection of given foes
 
 -score will increase upon eat sandwich captured
 

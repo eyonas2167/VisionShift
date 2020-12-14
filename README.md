@@ -4,6 +4,8 @@ you are a powerful being that holds the ability to shift between two planes of a
 
 -Game utilizes behavior trees to maniuplate enemy foes based on the position and mode of the player
 
+-move with the directional pads to pursuit the legendary sandwich
+
 -press the space button to shift between fields of awareness and avoid detection of given foes
 
 -score will increase upon eat sandwich captured
